@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Humayra' Zulqarnain
 ============================================================================================================================================
 
-Full-Time Degree Student in Bachelor of Computer Science (Data Engineering) with Honours @ UTM
+Full-Time Degree Student in Bachelor of Computer Science (Data Engineering) with Honours @ UTM Skudai
 ----------------------------------------------------------------------------------------------
 
 I am currently learning about programming and computer science essentials that are important for industries with IT jobs. Furthermore, I am continuously seeking out for activities to enhance my PROBLEM SOLVING and COMMUNICATION abilities, which are the two most crucial skills not only to strengthen my employability, but also for my personal and professional growth.

@@ -76,15 +76,15 @@ Aspiring data engineer passionate about problem-solving, continuous learning, an
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/hmayrazulq">
-<img src="https://github-readme-stats.vercel.app/api?username=hmayrazulq&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="hmayrazulq's GitHub stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hmayrazulq&show_icons=true&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=7f1d1d&hide_border=true" />
 </a>
 
 <a href="http://www.github.com/hmayrazulq">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hmayrazulq&stroke=ffffff&background=7f1d1d&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=hmayrazulq&background=7f1d1d&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 <a href="https://github.com/hmayrazulq" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmayrazulq&langs_count=10&title_color=0f172a&text_color=ffffff&icon_color=ffffff&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hmayrazulq&langs_count=10&title_color=0f172a&text_color=ffffff&bg_color=7f1d1d&hide_border=true&custom_title=Top%20Languages" />
 </a>
 
 <b>Top Repositories</b>

@@ -90,3 +90,48 @@ Aspiring data engineer passionate about problem-solving, continuous learning, an
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+# About me
+
+---
+
+## Education
+- University of Technology Malaysia (UTM) Johor Bahru (2025 - Present)
+  - Course: Bachelor of Computer Science (Data Engineering) with Honours
+  
+- Foundation in Physical Science at UTM Johor Bahru (2024 - 2025)
+  - Course: Physical Sciences
+  - CGPA: 3.79
+  - MUET SCORE: 4.5
+  
+- SBPI Sabak Bernam (2019 - 2023)
+  - Course: Religious Sciences
+  - SPM: 8As
+
+- SK Taman Selasih
+  - UPSR: 6As
+
+## Positions
+- SBPI Sabak Bernam
+  - Vice President I of Librarian (2023)
+  - President of the English Language Society (2023)
+  - Vice President of Fire Cadets (2023)
+  - Committee Member of The English Language Society (2022)
+  - Committee Member of Fire Cadets (2021)
+  - Librarian (2020 - 2023)
+ 
+## Involvement
+- Volleyball and Parade (Perbarisan) Athlete in UTMGAMES 2025
+- Hiking at Bukit TIS with Kelab PEMBINA
+- Safety Unit for FESKO'69
+- 1st Place in UNBOCS Run 2024
+- 4th Place in CODE'26 Explorace
+- Participant in Code Create Connect '25 Programme (CCC'25)
+- Activity Unit for SUSKOM'25
+- Registration Unit for CODE'26
+- Activity unit for Kelab Usahawan Treasure Hunt Explorace
+
+- Gold Award for Sabak Bernam International Innovation Competition (SABIIC 2022)
+- First Runner-up in Pertandingan Resensi Buku Peringkat Sekolah 2022 (Book Review)
+- 13th place in MSSD Merentas Desa Sabak Bernam 2022
+- Top 10 for 2022 and 2023 Merentas Desa Peringkat Sekolah

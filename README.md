@@ -129,7 +129,7 @@ Aspiring data engineer passionate about problem-solving, continuous learning, an
 - Participant in Code Create Connect '25 Programme (CCC'25)
 - Activity Unit for Sukan Sains Komputer (SUSKOM'25)
 - Registration Unit for Computing Open Day & Exhibition (CODE'26)
-- Food unit for Faculty of Computing's Annual Grand Meeting (AGM'26)
+- Food Unit for Faculty of Computing's Annual Grand Meeting (AGM'26)
 - Special Task Unit for Ensemble of Gamelan (EOG'26)
 
 - Gold Award for Sabak Bernam International Innovation Competition (SABIIC 2022)

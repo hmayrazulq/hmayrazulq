@@ -127,9 +127,10 @@ Aspiring data engineer passionate about problem-solving, continuous learning, an
 - 1st Place in UNBOCS Run 2024
 - 4th Place in CODE'26 Explorace
 - Participant in Code Create Connect '25 Programme (CCC'25)
-- Activity Unit for SUSKOM'25
-- Registration Unit for CODE'26
-- Activity unit for Kelab Usahawan Treasure Hunt Explorace
+- Activity Unit for Sukan Sains Komputer (SUSKOM'25)
+- Registration Unit for Computing Open Day & Exhibition (CODE'26)
+- Food unit for Faculty of Computing's Annual Grand Meeting (AGM'26)
+- Special Task Unit for Ensemble of Gamelan (EOG'26)
 
 - Gold Award for Sabak Bernam International Innovation Competition (SABIIC 2022)
 - First Runner-up in Pertandingan Resensi Buku Peringkat Sekolah 2022 (Book Review)
